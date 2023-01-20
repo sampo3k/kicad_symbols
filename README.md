@@ -20,3 +20,7 @@
 ## Microcontrollers
 
 - ESP32-PICO-V3-O2
+
+## Audio CODEC
+
+- WM8940
