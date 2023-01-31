@@ -1846,7 +1846,7 @@
     (property "Footprint" "" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 0 0 0)
+    (property "Datasheet" "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/si3406x-datasheet.pdf" (id 3) (at 1.27 -15.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SI34061_0_1"
