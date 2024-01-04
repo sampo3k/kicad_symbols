@@ -1843,7 +1843,7 @@
     (property "Value" "KS0835F" (at 0 -27.305 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "poeparts:KS0835F" (at 0.635 -32.385 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://file2.dzsc.com/product/17/12/27/1130655_113518007.pdf" (at 0 -29.845 0)
