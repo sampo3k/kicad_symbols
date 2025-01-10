@@ -29,3 +29,7 @@
 ## Optocoupler
 
 - VO618A
+
+## Special Purpose
+
+- TCA8418 I2C Keypad Scan IC
