@@ -2363,8 +2363,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "poeparts:BMP581"
+			(at 0.762 -11.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2373,7 +2373,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp581-ds004.pdf"
-			(at 0.254 -10.922 0)
+			(at 0.254 -13.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2382,7 +2382,7 @@
 			)
 		)
 		(property "Description" "pressure sensor"
-			(at 0 0 0)
+			(at 0.508 -9.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)

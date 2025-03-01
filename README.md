@@ -33,3 +33,8 @@
 ## Special Purpose
 
 - TCA8418 I2C Keypad Scan IC
+
+## Sensors
+
+- SGP41
+- BMP581
