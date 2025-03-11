@@ -15,6 +15,7 @@
 ## Power
 
 - TPS62273DRV (400mA step down)
+- TPS62840YBG (750mA step down)
 - TLV431 (voltage reference)
 - LM3410 (LED driver)
 
