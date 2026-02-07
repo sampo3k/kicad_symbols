@@ -6010,7 +6010,7 @@
 				)
 			)
 			(pin input line
-				(at -9.525 11.43 0)
+				(at -9.525 12.065 0)
 				(length 2.54)
 				(name "DIM"
 					(effects
