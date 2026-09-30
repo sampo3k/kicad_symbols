@@ -9,6 +9,7 @@
 ## PoE
 
 - ARJM11D7-114 (magjack w/ led)
+- VP6019HF (10/100 PoE LAN transformer, SMD-16)
 - FA2671-AL (transformer)
 - Si34061
 
