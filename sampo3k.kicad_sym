@@ -5310,7 +5310,7 @@
 				(at -20.32 0 0)
 				(length 2.54)
 				(hide yes)
-				(name "IO16"
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5488,10 +5488,10 @@
 				)
 			)
 			(pin no_connect line
-				(at -20.32 1.905 0)
+				(at -20.32 2.54 0)
 				(length 2.54)
 				(hide yes)
-				(name "IO18"
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -5510,7 +5510,7 @@
 				(at 20.32 -10.16 180)
 				(length 2.54)
 				(hide yes)
-				(name "IO23"
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
