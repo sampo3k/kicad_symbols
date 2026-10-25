@@ -14473,7 +14473,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.skyworksinc.com/-/media/SkyWorks/SL/documents/public/data-sheets/Si3050-19.pdf"
+		(property "Datasheet" "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/si3050-11-18-19.pdf"
 			(at 0 -34.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14920,7 +14920,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.skyworksinc.com/-/media/SkyWorks/SL/documents/public/data-sheets/Si3050-19.pdf"
+		(property "Datasheet" "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/si3050-11-18-19.pdf"
 			(at 0 -26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
