@@ -36,6 +36,10 @@
 
 - TCA8418 I2C Keypad Scan IC
 
+## Memory
+
+- HyperRAM_x8_BGA24 (W957D8MFYA, S70KS1282, S27KS0642: 24-ball HyperBus ballout)
+
 ## Sensors
 
 - SGP41
